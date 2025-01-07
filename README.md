@@ -1,4 +1,4 @@
-# Frontend Proposal
+# SGG Tech Assesment
 
 This is a **React-based frontend project** for managing projects, providing an intuitive interface for listing projects, viewing detailed information, and editing project details. The project leverages modern technologies for a seamless and user-friendly experience.
 
