@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Project Alpha",
+      "description": "Alpha Project Description",
+      "startDate": "2024-02-01",
+      "endDate": "2024-12-31",
+      "manager": "John"
+    },
+    {
+      "id": "2",
+      "name": "Project Beta",
+      "description": "This is project Beta",
+      "startDate": "2024-02-01",
+      "endDate": "2024-11-30",
+      "manager": "Bob"
+    },
+    {
+      "id": "3",
+      "name": "Project Gamma",
+      "description": "This is project Gamma Description",
+      "startDate": "2024-03-01",
+      "endDate": "2024-09-30",
+      "manager": "Charlies"
+    },
+    {
+      "id": "4",
+      "name": "Project Delta",
+      "description": "This is project Delta",
+      "startDate": "2024-04-01",
+      "endDate": "2024-10-31",
+      "manager": "Diana"
+    },
+    {
+      "id": "5",
+      "name": "Project Epsilon",
+      "description": "This is project Epsilon",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-31",
+      "manager": "Ethan"
+    }
+  ]
+}
